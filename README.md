@@ -12,6 +12,6 @@
 
 |     날짜     |                             문제                             |                             풀이                             | 비고 |
 | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: |
-| 22 / 10 / 10 | [2739](https://www.acmicpc.net/problem/2739), [8393](https://www.acmicpc.net/problem/8393) | [2739](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/2739.swift), [8393](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/8393.swift) |      |
+| 22 / 10 / 10 | [2739](https://www.acmicpc.net/problem/2739), [8393](https://www.acmicpc.net/problem/8393) | [2739](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/2739.swift), [8393](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/8393.swift) | 백준 |
 |              |                                                              |                                                              |      |
 
