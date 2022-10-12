@@ -20,8 +20,8 @@
 
 
 
-|     날짜     |                             문제                             |                             풀이                             | 비고 |
-| :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: |
-| 22 / 10 / 10 | [2739](https://www.acmicpc.net/problem/2739), [8393](https://www.acmicpc.net/problem/8393) | [2739](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/2739.swift), [8393](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/8393.swift) | 백준 |
-|              |                                                              |                                                              |      |
+|     날짜     |                             문제                             |                             풀이                             |        비고        |
+| :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: |
+| 22 / 10 / 10 | [2739](https://www.acmicpc.net/problem/2739), [8393](https://www.acmicpc.net/problem/8393) | [2739](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/2739.swift), [8393](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/8393.swift) |        백준        |
+| 22 / 10 / 12 | [두수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803), [두수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802), [2753](https://www.acmicpc.net/problem/2753) | [두수의 차](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/minus.swift), [두수의 합](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/sum.swift), [2753](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/2753.swift) | 프로그래머스, 백준 |
 
