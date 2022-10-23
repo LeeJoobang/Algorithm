@@ -9,6 +9,3 @@ func solution(_ n:Int) -> Int{
     }
     return answer
 }
-
-print(solution(123))
-print(solution(987))
