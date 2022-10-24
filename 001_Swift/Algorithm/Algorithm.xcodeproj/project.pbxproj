@@ -36,6 +36,7 @@
 		37A9538C28FE187800341A19 /* 나머지구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "나머지구하기.swift"; sourceTree = "<group>"; };
 		37BF48FA28FD4F23003B15E9 /* age.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = age.swift; sourceTree = "<group>"; };
 		37BF48FC28FD4F6B003B15E9 /* quotient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quotient.swift; sourceTree = "<group>"; };
+		37C7022A29060EBA009AC882 /* 자연수뒤집어배열만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "자연수뒤집어배열만들기.swift"; sourceTree = "<group>"; };
 		37FC49C928F42BEE0041306C /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		37FC49CC28F42BEE0041306C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		37FC49D328F42C1F0041306C /* 2739.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2739.swift; sourceTree = "<group>"; };
@@ -73,6 +74,7 @@
 			isa = PBXGroup;
 			children = (
 				37FC49CC28F42BEE0041306C /* main.swift */,
+				37C7022A29060EBA009AC882 /* 자연수뒤집어배열만들기.swift */,
 				37411B2C290520AA00762145 /* 자릿수구하기.swift */,
 				37411B2A290515D900762145 /* 약수구하기.swift */,
 				37A9017529017CBE0070A717 /* 짝수와홀수.swift */,
