@@ -1,3 +1,10 @@
+//
+//  JadenCae.swift
+//  Algorithm
+//
+//  Created by Jooyoung Lee on 2022/12/16.
+//
+
 import Foundation
 
 /*
@@ -22,4 +29,19 @@ import Foundation
 
  */
 
+func solution(_ s:String) -> String {
+    let arr = s.components(separatedBy: " ")
+    var StringArr = Array(repeating: [String](), count: arr.count)
+    var result = Array(repeating: String(), count: arr.count)
+    for item in 0..<arr.count {
+        StringArr[item] = arr[item].map{String($0).lowercased()}
+        if StringArr[item] != [] {
+        StringArr[item][0] = StringArr[item][0].uppercased()
+        }
+        result[item] = StringArr[item].joined(separator: "")
+    }
+    var joinResult = result.joined(separator: " ")
+ 
+    return joinResult
+}
 
