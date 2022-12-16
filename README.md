@@ -43,3 +43,4 @@
 | 22 / 11 / 05  | [음양더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [음양더하기](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0.swift) |    프로그래머스    |
 | 22 / 11 / 12  | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [음양더하기](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0.swift) |    프로그래머스    |
 | 22 / 12 / 14  | [최댓값최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939?language=swift) | [최댓값최솟값](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/최댓값최솟값.swift) |    프로그래머스    |
+| 22 / 12 / 16  | [JadenCase](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [JadenCase](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/JadenCae.swift) |    프로그래머스    |
