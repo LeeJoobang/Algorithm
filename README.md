@@ -45,3 +45,4 @@
 | 22 / 12 / 14  | [최댓값최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939?language=swift) | [최댓값최솟값](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/최댓값최솟값.swift) |    프로그래머스    |
 | 22 / 12 / 16  | [JadenCase](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [JadenCase](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/JadenCae.swift) |    프로그래머스    |
 | 22 / 12 / 17  | [최솟값구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [최솟값구하기](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/최솟값구하기.swift) |    프로그래머스    |
+| 22 / 12 / 27  | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [올바른 괄호](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/올바른괄호.swift) |    프로그래머스    |
