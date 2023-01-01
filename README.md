@@ -47,3 +47,4 @@
 | 22 / 12 / 17  | [최솟값구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [최솟값구하기](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/최솟값구하기.swift) |    프로그래머스    |
 | 22 / 12 / 27  | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [올바른 괄호](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/올바른괄호.swift) |    프로그래머스    |
 | 22 / 12 / 28  | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [피보나치 수](https://github.com/LeeJoobang/Algorithm/commit/ccf7ab910c50d6ba90dfc43a114fc16d24db32f0#diff-996934afccb5342a29aceeda8f8d4d522b99dce86ea10ab886df5cdc26f521e7) |    프로그래머스    |
+| 23 / 01 / 01  | [다음큰숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [다음큰숫자](https://github.com/LeeJoobang/Algorithm/commit/536c41a9ddc3e1ba35ed19f4ab4cb6c75eb1dcfa) |    프로그래머스    |
