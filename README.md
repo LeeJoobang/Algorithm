@@ -50,3 +50,4 @@
 | 23 / 01 / 01  | [다음큰숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [다음큰숫자](https://github.com/LeeJoobang/Algorithm/commit/536c41a9ddc3e1ba35ed19f4ab4cb6c75eb1dcfa) |    프로그래머스    |
 | 23 / 02 / 11  | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903) | [가운데 글자 가져오기](https://github.com/LeeJoobang/Algorithm/commit/628f6c10965bdc1ccbe42dec69ecc97ed469ee5c) |    프로그래머스    |
 | 23 / 02 / 12  | [수박수](https://school.programmers.co.kr/learn/courses/30/lessons/12922) | [수박수](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/수박수.swift) |    프로그래머스    |
+| 23 / 02 / 14  | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [내적](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/내적.swift) |    프로그래머스    |
