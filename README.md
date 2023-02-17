@@ -51,3 +51,4 @@
 | 23 / 02 / 11  | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903) | [가운데 글자 가져오기](https://github.com/LeeJoobang/Algorithm/commit/628f6c10965bdc1ccbe42dec69ecc97ed469ee5c) |    프로그래머스    |
 | 23 / 02 / 12  | [수박수](https://school.programmers.co.kr/learn/courses/30/lessons/12922) | [수박수](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/수박수.swift) |    프로그래머스    |
 | 23 / 02 / 14  | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [내적](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/내적.swift) |    프로그래머스    |
+| 23 / 02 / 17  | [문자열 내림차순](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=swift) | [문자열 내림차순](https://github.com/LeeJoobang/Algorithm/commit/f27af63c1731dbd665849e10f6977d1fd3c2f2fe) |    프로그래머스    |
