@@ -65,6 +65,7 @@
 		37FC49CC28F42BEE0041306C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		37FC49D328F42C1F0041306C /* 2739.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2739.swift; sourceTree = "<group>"; };
 		37FC49D628F443520041306C /* 8393.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 8393.swift; sourceTree = "<group>"; };
+		EBAD8CAE299F992E00CB8C41 /* 문자열내림차순.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열내림차순.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +99,7 @@
 			isa = PBXGroup;
 			children = (
 				37FC49CC28F42BEE0041306C /* main.swift */,
+				EBAD8CAE299F992E00CB8C41 /* 문자열내림차순.swift */,
 				379D91F92997A5C9001D1054 /* 가운데글자가져오기.swift */,
 				37BCA5782961553E00F3F4FD /* 다음큰숫자.swift */,
 				37D2EC5F295AA234004BAD72 /* 올바른괄호.swift */,
@@ -324,7 +326,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = H2FTMY38H7;
+				DEVELOPMENT_TEAM = N5UZH8A7JY;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -335,7 +337,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = H2FTMY38H7;
+				DEVELOPMENT_TEAM = N5UZH8A7JY;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
