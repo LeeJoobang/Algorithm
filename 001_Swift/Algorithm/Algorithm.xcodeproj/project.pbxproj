@@ -48,6 +48,7 @@
 		37A9538A28FE182000341A19 /* 두수의곱.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "두수의곱.swift"; sourceTree = "<group>"; };
 		37A9538C28FE187800341A19 /* 나머지구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "나머지구하기.swift"; sourceTree = "<group>"; };
 		37A9AB792998FB7700CFC502 /* 수박수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "수박수.swift"; sourceTree = "<group>"; };
+		37BA847529A0CD2700BD2810 /* 약수갯수덧셈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "약수갯수덧셈.swift"; sourceTree = "<group>"; };
 		37BCA5782961553E00F3F4FD /* 다음큰숫자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "다음큰숫자.swift"; sourceTree = "<group>"; };
 		37BF48FA28FD4F23003B15E9 /* age.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = age.swift; sourceTree = "<group>"; };
 		37BF48FC28FD4F6B003B15E9 /* quotient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quotient.swift; sourceTree = "<group>"; };
@@ -140,6 +141,7 @@
 				37976A58295C04A400F1DA76 /* 피보나치수열.swift */,
 				37A9AB792998FB7700CFC502 /* 수박수.swift */,
 				374F6C81299BB3A3004FDF23 /* 내적.swift */,
+				37BA847529A0CD2700BD2810 /* 약수갯수덧셈.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -326,7 +328,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = N5UZH8A7JY;
+				DEVELOPMENT_TEAM = H2FTMY38H7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -337,7 +339,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = N5UZH8A7JY;
+				DEVELOPMENT_TEAM = H2FTMY38H7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
