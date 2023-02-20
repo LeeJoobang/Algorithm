@@ -53,3 +53,4 @@
 | 23 / 02 / 14  | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [내적](https://github.com/LeeJoobang/Algorithm/blob/main/001_Swift/Algorithm/Algorithm/내적.swift) |    프로그래머스    |
 | 23 / 02 / 17  | [문자열 내림차순](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=swift) | [문자열 내림차순](https://github.com/LeeJoobang/Algorithm/commit/f27af63c1731dbd665849e10f6977d1fd3c2f2fe) |    프로그래머스    |
 | 23 / 02 / 18  | **[숫자 약수 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884?language=swift)** | [숫자 약수 덧셈](https://github.com/LeeJoobang/Algorithm/commit/06c0c5e189b8e81896a9581e35d71d4b2c1dadbe) |    프로그래머스    |
+| 23 / 02 / 20  | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) | [문자열 다루기 기본](https://github.com/LeeJoobang/Algorithm/commit/206004c4a64de52e141ed5a9dd98d8820910c2ff) |    프로그래머스    |
